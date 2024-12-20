@@ -1,0 +1,5 @@
+Total Words: 195
+Correct Top-1 Predictions: 7
+Top-1 Accuracy: 3.59%
+Correct Top-4 Predictions: 23
+Top-4 Accuracy: 11.79%
